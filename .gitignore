@@ -17,3 +17,4 @@ doc/api/
 
 # Test artifacts
 /tool/actual.xml
+pubspec.lock
